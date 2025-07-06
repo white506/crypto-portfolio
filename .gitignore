@@ -6,6 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+*.mdc
 
 node_modules/
 dist/
@@ -13,6 +14,7 @@ dist/
 .DS_Store
 dist-ssr
 *.local
+cursor/
 
 # Editor directories and files
 .vscode/*
